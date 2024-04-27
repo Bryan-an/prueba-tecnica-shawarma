@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "Nombre": "Juan Pérez",
+    "Edad": "34",
+    "Departamento": "Ventas",
+    "Email": "juan.perez@example.com"
+  },
+  {
+    "id": "2",
+    "Nombre": "Laura Jiménez",
+    "Edad": "28",
+    "Departamento": "Marketing",
+    "Email": "laura.jimenez@example.com"
+  },
+  {
+    "id": "3",
+    "Nombre": "Pablo Hernandez",
+    "Edad": "45",
+    "Departamento": "Recursos Humanos",
+    "Email": "pheralb.gomez@example.com"
+  },
+  {
+    "id": "4",
+    "Nombre": "Sofía Castro",
+    "Edad": "30",
+    "Departamento": "IT",
+    "Email": "sofia.castro@example.com"
+  },
+  {
+    "id": "5",
+    "Nombre": "Mario Ruiz",
+    "Edad": "50",
+    "Departamento": "Finanzas",
+    "Email": "mario.ruiz@example.com"
+  },
+  {
+    "id": "6",
+    "Nombre": "Ana Torres",
+    "Edad": "27",
+    "Departamento": "Ventas",
+    "Email": "ana.torres@example.com"
+  },
+  {
+    "id": "7",
+    "Nombre": "Luis Molina",
+    "Edad": "31",
+    "Departamento": "Marketing",
+    "Email": "luis.molina@example.com"
+  },
+  {
+    "id": "8",
+    "Nombre": "Carmen Sánchez",
+    "Edad": "29",
+    "Departamento": "Recursos Humanos",
+    "Email": "carmen.sanchez@example.com"
+  },
+  {
+    "id": "9",
+    "Nombre": "Carlos López",
+    "Edad": "42",
+    "Departamento": "IT",
+    "Email": "carlos.lopez@example.com"
+  },
+  {
+    "id": "10",
+    "Nombre": "Irene García",
+    "Edad": "39",
+    "Departamento": "Finanzas",
+    "Email": "irene.garcia@example.com"
+  }
+]
